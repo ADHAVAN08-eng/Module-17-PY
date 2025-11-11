@@ -8,7 +8,7 @@ To write a Python program to generate a graph for a given **fixed degree sequenc
 **Step 1**: Start the program.
 
 **Step 2**: Check if the sum of the degree sequence is even.  
-> (A necessary condition for the sequence to be graphical.)
+> (A necessary condition for the sequence to be graphical.) 
 
 - If not even, print an error message and exit the program.
 
